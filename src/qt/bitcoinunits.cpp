@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("SmallChange");
-    case mBTC: return QString("Milli-SmallChange (1 / 1,000)");
-    case uBTC: return QString("Micro-SmallChange (1 / 1,000,000)");
+    case BTC: return QString("nazigold");
+    case mBTC: return QString("Milli-nazigold (1 / 1,000)");
+    case uBTC: return QString("Micro-nazigold (1 / 1,000,000)");
     default: return QString("???");
     }
 }
