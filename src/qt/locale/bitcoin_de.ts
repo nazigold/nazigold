@@ -10,7 +10,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="53"/>
         <source>&lt;b&gt;Bitcoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Bitcoin&lt;/b&gt; Version</translation>
+        <translation>&lt;b&gt;Nazigold&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="97"/>
@@ -40,7 +40,7 @@ Dieses Produkt enthält Software, die vom OpenSSL Projekt zur Verwendung im Open
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
         <source>These are your Bitcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dies sind Ihre Bitcoin-Adressen zum Empfangen von Zahlungen. Es steht Ihnen frei, jedem Absender eine andere mitzuteilen, um einen besseren Überblick über eingehende Zahlungen zu erhalten.</translation>
+        <translation>Dies sind Ihre Nazigold-Adressen zum Empfangen von Zahlungen. Es steht Ihnen frei, jedem Absender eine andere mitzuteilen, um einen besseren Überblick über eingehende Zahlungen zu erhalten.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="36"/>
@@ -146,27 +146,27 @@ Dieses Produkt enthält Software, die vom OpenSSL Projekt zur Verwendung im Open
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="26"/>
         <source>Passphrase Dialog</source>
-        <translation>Passphrasen Dialog</translation>
+        <translation>Passwort Dialog</translation>
     </message>
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="47"/>
         <source>Enter passphrase</source>
-        <translation>Passphrase eingeben</translation>
+        <translation>Passwort eingeben</translation>
     </message>
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="61"/>
         <source>New passphrase</source>
-        <translation>Neue Passphrase</translation>
+        <translation>Neues Passwort</translation>
     </message>
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="75"/>
         <source>Repeat new passphrase</source>
-        <translation>Neue Passphrase wiederholen</translation>
+        <translation>Neues Passwort wiederholen</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Geben Sie die neue Passphrase für die Brieftasche ein.&lt;br&gt;Bitte benutzen Sie eine Passphrase bestehend aus &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;8 oder mehr Wörtern&lt;/b&gt;.</translation>
+        <translation>Geben Sie das neue Passwort für die Brieftasche ein.&lt;br&gt;Bitte benutzen Sie ein Passwort bestehend aus &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;8 oder mehr Wörtern&lt;/b&gt;.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="34"/>
@@ -176,7 +176,7 @@ Dieses Produkt enthält Software, die vom OpenSSL Projekt zur Verwendung im Open
     <message>
         <location filename="../askpassphrasedialog.cpp" line="37"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Dieser Vorgang benötigt Ihre Passphrase um die Brieftasche zu entsperren.</translation>
+        <translation>Dieser Vorgang benötigt Ihr Passwort um die Brieftasche zu entsperren.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="42"/>
@@ -196,12 +196,12 @@ Dieses Produkt enthält Software, die vom OpenSSL Projekt zur Verwendung im Open
     <message>
         <location filename="../askpassphrasedialog.cpp" line="53"/>
         <source>Change passphrase</source>
-        <translation>Passphrase ändern</translation>
+        <translation>Passwort ändern</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="54"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Geben Sie die alte und die neue Passphrase der Brieftasche ein.</translation>
+        <translation>Geben Sie das alte und das neue Passwort der Brieftasche ein.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="100"/>
@@ -212,7 +212,7 @@ Dieses Produkt enthält Software, die vom OpenSSL Projekt zur Verwendung im Open
         <location filename="../askpassphrasedialog.cpp" line="101"/>
         <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>WARNUNG: Wenn Sie Ihre Brieftasche verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;ALLE IHRE BITCOINS VERLIEREN&lt;/b&gt;!&lt;br&gt;&lt;br&gt;Sind Sie sich sicher, dass Sie Ihre Brieftasche verschlüsseln möchten?</translation>
+        <translation>WARNUNG: Wenn Sie Ihre Brieftasche verschlüsseln und Ihr Passwort verlieren, werden Sie &lt;b&gt;ALL IHRE BITCOINS VERLIEREN&lt;/b&gt;!&lt;br&gt;&lt;br&gt;Sind Sie sich sicher, dass Sie Ihre Brieftasche verschlüsseln möchten?</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="110"/>
@@ -248,7 +248,7 @@ Are you sure you wish to encrypt your wallet?</source>
         <location filename="../askpassphrasedialog.cpp" line="124"/>
         <location filename="../askpassphrasedialog.cpp" line="172"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>Die eingegebenen Passphrasen stimmen nicht überein.</translation>
+        <translation>Die eingegebenen Passwörter stimmen nicht überein.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="135"/>
@@ -260,7 +260,7 @@ Are you sure you wish to encrypt your wallet?</source>
         <location filename="../askpassphrasedialog.cpp" line="147"/>
         <location filename="../askpassphrasedialog.cpp" line="166"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>Die eingegebene Passphrase zum Entschlüsseln der Brieftasche war nicht korrekt.</translation>
+        <translation>Das eingegebene Passwort zum Entschlüsseln der Brieftasche war nicht korrekt.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="146"/>
@@ -270,7 +270,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="160"/>
         <source>Wallet passphrase was succesfully changed.</source>
-        <translation>Die Passphrase der Brieftasche wurde erfolgreich geändert.</translation>
+        <translation>Das Passwort der Brieftasche wurde erfolgreich geändert.</translation>
     </message>
 </context>
 <context>
@@ -393,7 +393,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="257"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>Passphrase &amp;ändern...</translation>
+        <translation>Passwort &amp;ändern...</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="517"/>
@@ -443,7 +443,7 @@ Are you sure you wish to encrypt your wallet?</source>
     <message>
         <location filename="../bitcoingui.cpp" line="258"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Ändert die Passphrase, die für die Verschlüsselung der Brieftasche benutzt wird</translation>
+        <translation>Ändert das Passwort, das für die Verschlüsselung der Brieftasche benutzt wird</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="259"/>
@@ -500,7 +500,7 @@ Are you sure you wish to encrypt your wallet?</source>
         <location filename="../bitcoingui.cpp" line="343"/>
         <location filename="../bitcoingui.cpp" line="399"/>
         <source>Bitcoin client</source>
-        <translation>Bitcoin Client</translation>
+        <translation>Bitcoin Klient</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="492"/>
@@ -1050,7 +1050,7 @@ Adresse: %4</translation>
         <location filename="../overviewpage.cpp" line="110"/>
         <location filename="../overviewpage.cpp" line="111"/>
         <source>out of sync</source>
-        <translation>nicht synchron</translation>
+        <translation>Nicht Synchronisiert</translation>
     </message>
 </context>
 <context>

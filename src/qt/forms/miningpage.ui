@@ -30,7 +30,7 @@
       <bool>true</bool>
      </property>
      <property name="text">
-      <string>Username</string>
+      <string>Benutzername</string>
      </property>
     </widget>
    </item>
@@ -60,7 +60,7 @@
       <bool>true</bool>
      </property>
      <property name="text">
-      <string>Password</string>
+      <string>Passwort</string>
      </property>
     </widget>
    </item>
@@ -83,7 +83,7 @@
       </sizepolicy>
      </property>
      <property name="text">
-      <string>Start Mining</string>
+      <string>Starte das Minieren</string>
      </property>
     </widget>
    </item>
@@ -202,12 +202,12 @@
      </property>
      <item>
       <property name="text">
-       <string>Solo Mining</string>
+       <string>Solo minieren</string>
       </property>
      </item>
      <item>
       <property name="text">
-       <string>Pool Mining</string>
+       <string>Mit Bernd minieren</string>
       </property>
      </item>
     </widget>

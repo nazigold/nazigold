@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>340</width>
-    <height>530</height>
+    <height>556</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -70,7 +70,7 @@
          <bool>true</bool>
         </property>
         <property name="text">
-         <string>Request Payment</string>
+         <string>Geforderter Betrag</string>
         </property>
        </widget>
       </item>
@@ -101,7 +101,7 @@
         <item row="2" column="0">
          <widget class="QLabel" name="lblMessage">
           <property name="text">
-           <string>Message:</string>
+           <string>Nachricht</string>
           </property>
           <property name="textFormat">
            <enum>Qt::PlainText</enum>
@@ -126,7 +126,7 @@
            </sizepolicy>
           </property>
           <property name="text">
-           <string>Amount:</string>
+           <string>Betrag:</string>
           </property>
           <property name="textFormat">
            <enum>Qt::PlainText</enum>
